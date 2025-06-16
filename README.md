@@ -6,7 +6,7 @@
 🌱 I’m currently learning **React** and diving into **modern web design**  
 💻 I love building user-friendly, responsive interfaces  
 📫 Reach me at: **chitrashrestha1299@gmail.com**  
-🌍 Portfolio: _(Add link here if available)_
+🌍 Portfolio: _(Add your portfolio link here)_
 
 ---
 
@@ -27,16 +27,18 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChitraShrestha12&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChitraShrestha12&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChitraShrestha12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChitraShrestha12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 Contribution Activity Graph
+### 🔥 Contribution Activity Graph
 
-[![Chitra’s GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChitraShrestha12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChitraShrestha12&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
