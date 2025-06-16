@@ -6,7 +6,6 @@
 🌱 I’m currently learning **React** and diving into **modern web design**  
 💻 I love building user-friendly, responsive interfaces  
 📫 Reach me at: **chitrashrestha1299@gmail.com**  
-🌍 Portfolio: [Your Portfolio Link](https://your-portfolio-link.com)
 
 ---
 
@@ -30,14 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChitraShrestha12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChitraShrestha12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔥 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChitraShrestha12&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
