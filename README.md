@@ -39,8 +39,9 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=ChitraShrestha12&theme=react-dark&hide_border=true" />
+  <img alt="GitHub Contribution Graph" src="https://github-readme-stats.vercel.app/api/pin/?username=ChitraShrestha12&repo=github-readme-stats&theme=radical" />
 </p>
+
 
 ---
 
