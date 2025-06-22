@@ -39,8 +39,9 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Contribution Graph" src="https://github-readme-stats.vercel.app/api/pin/?username=ChitraShrestha12&repo=github-readme-stats&theme=radical" />
+  <img alt="GitHub Contributions" src="https://ghchart.rshah.org/ChitraShrestha12" />
 </p>
+
 
 
 ---
