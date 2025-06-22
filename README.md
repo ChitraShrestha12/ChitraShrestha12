@@ -38,9 +38,6 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChitraShrestha12&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img alt="GitHub Contribution Graph" src="https://ghchart.rshah.org/ChitraShrestha12" />
-</p>
 
 
 ---
