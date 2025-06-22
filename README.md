@@ -39,9 +39,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Contributions" src="https://ghchart.rshah.org/ChitraShrestha12" />
+  <img alt="GitHub Contribution Graph" src="https://ghchart.rshah.org/ChitraShrestha12" />
 </p>
-
 
 
 ---
