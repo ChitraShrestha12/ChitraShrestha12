@@ -28,18 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChitraShrestha12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChitraShrestha12&theme=radical&hide_border=true" />
-</p>
-
-
-
 ---
 
 ### 🌐 Connect with Me
