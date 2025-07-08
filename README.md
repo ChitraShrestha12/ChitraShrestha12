@@ -31,7 +31,6 @@
 ### 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitraShrestha12&show_icons=true&theme=radical)  
 
-*(Pro Tip: Use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to auto-update this section.)*
 
 ---
 
