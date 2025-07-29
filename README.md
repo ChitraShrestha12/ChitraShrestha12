@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Chitra Shrestha**, a frontend developer with a love for ** pixel-perfect design** 🎮👨‍💻
+I'm **Chitra Shrestha**, a frontend developer with a love for **pixel-perfect design** 👨‍💻
 
 I build **responsive**, **user-friendly** websites using **HTML**, **CSS**, **JavaScript**, and **React**.  
 I love turning creative ideas into smooth, fast interfaces that look great on any screen.
