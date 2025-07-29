@@ -11,7 +11,7 @@ Outside of coding, I enjoy **watching anime**, **gaming** and **learning new tec
 
 ## 🎯 Fun Facts
 
-- 🕹️ Favorite games: *(You can add your favorite games here)*
+- 🕹️ Favorite game: *Solo Leveling: Arise*
 - 🎴 Favorite anime: *Solo Leveling* and *Jujutsu Kaisen*
 - 💻 Always curious, always building!
 
