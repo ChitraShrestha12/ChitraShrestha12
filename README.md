@@ -29,3 +29,7 @@ Outside of coding, I enjoy **watching anime**, **gaming**, and **exploring fanta
 - 💻 Always curious, always building!
 
 ---
+
+![Chitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
