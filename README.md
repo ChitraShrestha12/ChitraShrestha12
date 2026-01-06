@@ -30,7 +30,3 @@ Outside of coding, I enjoy **watching anime**, **gaming**, and **exploring fanta
 
 ---
 
-![Chitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChitraShrestha12&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitraShrestha12&layout=compact&theme=radical)
-
