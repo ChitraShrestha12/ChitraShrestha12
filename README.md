@@ -21,7 +21,7 @@ Outside of coding, I enjoy **watching anime**, **gaming**, and exploring fantasy
 
 **Programming:**
 
-![C](https://algo-pi.com/wp-content/uploads/2024/08/1688275415052.png)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Tools & Platforms:**
 
