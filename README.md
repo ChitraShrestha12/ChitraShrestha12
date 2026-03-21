@@ -2,8 +2,9 @@
 
 I'm **Chitra Shrestha**, a **Frontend Developer** 👩‍💻
 
-I build **responsive**, **user-friendly** websites using **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React**.  
-I focus on creating **clean, fast, and functional UIs** that work well on any screen.
+I build **responsive** and **user-friendly** web applications using **HTML, CSS, JavaScript, TypeScript, and React**.  
+I also have experience working with **PHP, Laravel, and MySQL for backend development**.  
+I focus on delivering clean, performant, and scalable user interfaces across all devices.
 
 Outside of coding, I enjoy **watching anime**, **gaming**, and exploring fantasy and historical series like *The Witcher*, *Vikings: Valhalla*, and *The Wheel of Time*.
 
