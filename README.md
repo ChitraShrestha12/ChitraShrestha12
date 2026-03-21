@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Chitra Shrestha**, a **Frontend Developer** 👩‍💻
+I'm **Chitra Shrestha**, a **Web Developer** 
 
 I build **responsive** and **user-friendly** web applications using **HTML, CSS, JavaScript, TypeScript, and React**.  
 I also have experience working with **PHP, Laravel, and MySQL for backend development**.  
