@@ -2,7 +2,7 @@
 
 I'm **Chitra Shrestha**, a **Web Developer** 
 
-I build **responsive** and **user-friendly** web applications using **HTML, CSS, JavaScript, TypeScript, and React**.  
+I build **responsive** and **user-friendly** web applications using **HTML, CSS, JavaScript, and React**.  
 I also have experience working with **PHP, Laravel, and MySQL for backend development**.  
 I focus on delivering clean, performant, and scalable user interfaces across all devices.
 
