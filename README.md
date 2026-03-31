@@ -6,7 +6,7 @@ I build **responsive** and **user-friendly** web applications using **HTML, CSS,
 I also have experience working with **PHP, Laravel, and MySQL for backend development**.  
 I focus on delivering clean, performant, and scalable user interfaces across all devices.
 
-You can check out my **[Resume here](https://drive.google.com/file/d/1lP1hP1M36C6HxaSNcQGbj7fAisvpKrgR/view)**.
+You can check out my <a href="https://drive.google.com/file/d/1lP1hP1M36C6HxaSNcQGbj7fAisvpKrgR/view" target="_blank">Resume here</a>.
 
 Outside of coding, I enjoy **watching anime**, **gaming**, and exploring fantasy and historical series like *The Witcher*, *Vikings: Valhalla*, and *The Wheel of Time*.
 
